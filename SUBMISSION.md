@@ -22,25 +22,25 @@ Built in celebration of **Halloween** and **Día de los Muertos**, GhostTerminal
 Here is GhostTerminal AI in action:
 
 ### 1. The Possessed Shell (Haunted Terminal)
-![Haunted Terminal](https://raw.githubusercontent.com/Aachman-Yadav/GhostTerminal_AI/main/screenshots/01_terminal_shell.png)
+![Haunted Terminal](https://raw.githubusercontent.com/Aachman-Yadav/Ghost_Terminal/main/screenshots/01_terminal_shell.png)
 
 ### 2. The Exorcism Altar (Code Cleansing)
-![Exorcism Altar](https://raw.githubusercontent.com/Aachman-Yadav/GhostTerminal_AI/main/screenshots/02_exorcism_altar.png)
+![Exorcism Altar](https://raw.githubusercontent.com/Aachman-Yadav/Ghost_Terminal/main/screenshots/02_exorcism_altar.png)
 
 ### 3. The Digital Ouija Board (Planchette Divination)
-![Digital Ouija](https://raw.githubusercontent.com/Aachman-Yadav/GhostTerminal_AI/main/screenshots/03_ouija_board.png)
+![Digital Ouija](https://raw.githubusercontent.com/Aachman-Yadav/Ghost_Terminal/main/screenshots/03_ouija_board.png)
 
 ### 4. Spirit Persona Selector (Summoning Spirits)
-![Summoning Personas](https://raw.githubusercontent.com/Aachman-Yadav/GhostTerminal_AI/main/screenshots/04_persona_selector.png)
+![Summoning Personas](https://raw.githubusercontent.com/Aachman-Yadav/Ghost_Terminal/main/screenshots/04_persona_selector.png)
 
 ---
 
 ## Code
 
-{% github Aachman-Yadav/GhostTerminal_AI %}
+{% github Aachman-Yadav/Ghost_Terminal %}
 
 The repository is open-source under the MIT license:  
-👉 **[https://github.com/Aachman-Yadav/GhostTerminal_AI](https://github.com/Aachman-Yadav/GhostTerminal_AI)**
+👉 **[https://github.com/Aachman-Yadav/Ghost_Terminal](https://github.com/Aachman-Yadav/Ghost_Terminal)**
 
 ---
 
